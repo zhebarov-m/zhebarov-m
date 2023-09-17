@@ -32,8 +32,9 @@
 </div>
 <hr>
 
-<h3>💻 Основной стэк:</h3>
+<h4>💻 Основной стэк:</h4>
 
+<!-- Группа 1: Языки разметки и стилей -->
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="18px" width="18px" />
@@ -54,7 +55,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="18px" height="18px" alt="JavaScript" />
   </a>
   JavaScript
-  <img width="5" />
+</p>
+
+<!-- Группа 2: Фронтенд-фреймворки и инструменты разработки -->
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="18px" height="18px" alt="React" />
   </a>
@@ -94,28 +98,45 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="18" background=white/>
   </a>
   Linux
-  <img width="15" />
+  <img width="5" />
   <a href="https://www.chartjs.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="22" />
+    <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="18" />
   </a>
   Chart.js
 </p>
 
 
+
 ##
 
-<h3> Работал с BACKEND частью:</h3>
+<h4>Работал с BACKEND частью:</h4>
+
+<!-- Группа 1: Технологии для бэкенда -->
 <p align="center">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" alt="NodeJS" /></a>
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="1" />
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="40" alt="Express" /></a>
-  <img width="1" />
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="40" alt="MongoDB" /></a>
-  <img width="1" />
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="40" alt="PostgreSQL" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="18" alt="NodeJS" />
+  </a>
+  NodeJS
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="18" alt="sequelize logo"  />
+  Sequelize
+  <img width="5" />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="18" alt="Express" />
+  </a>
+  Express
+  <img width="5" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="18" alt="MongoDB" />
+  </a>
+  MongoDB
+  <img width="5" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="18" alt="PostgreSQL" />
+  </a>
+  PostgreSQL
 </p>
+
 
 <hr>
 
