@@ -30,76 +30,50 @@
 </div>
 <hr>
 
-<h4>💻 Основной стэк:</h4>
+<h4>💻 Стэк технологий:</h4>
 
 <!-- Группа 1: Языки разметки и стилей -->
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="18px" width="18px" />
-  </a>
   HTML
   <img width="5" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="18px" width="18px" />
-  </a>
   CSS
   <img width="5" />
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="18px" height="18px" alt="Sass" />
-  </a>
   Sass
   <img width="5" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="18px" height="18px" alt="JavaScript" />
-  </a>
   JavaScript
 </p>
 
 <!-- Группа 2: Фронтенд-фреймворки и инструменты разработки -->
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="18px" height="18px" alt="React" />
-  </a>
   React
   <img width="5" />
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="18px" height="18px" alt="Redux" />
-  </a>
   Redux
   <img width="5" />
-  <a href="https://material-ui.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="18px" width="18px" />
-  </a>
   Material-UI
   <img width="5" />
-  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="18px" src="https://vitejs.dev/logo.svg" alt="Vite logo" />
-  </a>
   Vite
   <img width="5" />
-  <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="18px" width="18px" />
-  </a>
   TypeScript
   <img width="5" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="18px" width="18px" alt="Git" />
-  </a>
   Git
   <img width="5" />
-  <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
     <img width="18px" src="https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-circle.png" alt="Vite logo" />
-  </a>
   Yarn
   <img width="5" />
-  <a href="https://en.wikipedia.org/wiki/Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="18" background=white/>
-  </a>
   Linux
   <img width="5" />
-  <a href="https://www.chartjs.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="18" />
-  </a>
   Chart.js
 </p>
 
@@ -111,27 +85,19 @@
 
 <!-- Группа 1: Технологии для бэкенда -->
 <p align="center">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="18" alt="NodeJS" />
-  </a>
   NodeJS
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="18" alt="sequelize logo"  />
   Sequelize
   <img width="5" />
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="18" alt="Express" />
-  </a>
   Express
   <img width="5" />
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="18" alt="MongoDB" />
-  </a>
   MongoDB
   <img width="5" />
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="18" alt="PostgreSQL" />
-  </a>
   PostgreSQL
 </p>
 
