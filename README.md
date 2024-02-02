@@ -1,7 +1,7 @@
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%BD%D0%B0+%D0%B1%D0%B0%D0%B7%D0%B5+ReactJS%E2%9A%A1%EF%B8%8F" alt="Typing SVG" /></a>
 
-* 🚀  На данный момент работаю над проектом [Балльно-рейтинговая система](https://github.com/zhebarov-m/point-rating_system-frontend)
+* 🚀  На данный момент работаю над проектом [Генератор геометрических CSS-фигур]([httpsк://github.com/zhebarov-m/point-rating_system-frontend](https://github.com/zhebarov-m/interview-helper))
 * 🧠  Практикую изучение: React, Redux-Toolkit и TypeScript
 * 📫  Как связаться со мной:
 
