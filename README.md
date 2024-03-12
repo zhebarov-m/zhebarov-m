@@ -12,7 +12,7 @@
   <a href="https://t.me/Je_M1">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCxTe-frN6V-x9QEFUnLMerg">
+  <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     <a href="https://vk.com/id434638625">
@@ -24,7 +24,7 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zhebarov-m&style=flat-square&color=blue" alt=""/>
-  <a href="https://www.youtube.com/channel/UCxTe-frN6V-x9QEFUnLMerg" target="_blank">
+  <a href="#" target="_blank">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCxTe-frN6V-x9QEFUnLMerg">
 </a>
 </div>
